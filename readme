@@ -1,1 +1,3 @@
 idat64 -Scheck_vulnerable_functions.py <directory_path>
+
+this script is designed to save the researcher time when targeting a specific device we can check all extracted binaries for vulnerable functions and reduce our list of target binaries in one bulk sweep of the device.
